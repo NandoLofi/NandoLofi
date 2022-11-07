@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/SBUdvLJ.jpeg" alt="background">]
+<img src="https://i.imgur.com/SBUdvLJ.jpeg" alt="background">
 ### Hi there 👋
 
 
