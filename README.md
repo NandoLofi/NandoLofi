@@ -1,4 +1,4 @@
-[![background] <img src="[https://imgur.com/SBUdvLJ](https://i.imgur.com/SBUdvLJ.jpeg)" alt="background">](https://i.imgur.com/SBUdvLJ.jpeg)
+[<img src="https://i.imgur.com/SBUdvLJ.jpeg" alt="background">]
 ### Hi there 👋
 
 
