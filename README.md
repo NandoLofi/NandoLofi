@@ -1,4 +1,4 @@
-![background] (https://imgur.com/SBUdvLJ)
+![background] <img src="https://imgur.com/SBUdvLJ" alt="background">
 ### Hi there 👋
 
 
