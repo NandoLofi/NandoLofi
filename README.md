@@ -18,10 +18,16 @@
 <p align='center'>
   <img src='https://img.shields.io/badge/-MongoDB-important?style=for-the-badge&logo=mongodb&logoColor=green'/>
   <img src='https://img.shields.io/badge/-PostgreSQL-yellow?style=for-the-badge&logo=mongodb&logoColor=black'/>
-   <img src='https://img.shields.io/badge/-Amazon AWS-important?style=for-the-badge&logo=amazonaws&logoColor=white'/>
    <img src='https://img.shields.io/badge/-python-lightgray?style=for-the-badge&logo=python&logoColor=purple'/>
+  <img src='https://img.shields.io/badge/-Django-informational?style=for-the-badge&logo=django&logoColor=9cf'/>
 </p>
 
 <hr>
 
 <h3 align='center'>Currently Learning</h3>
+<p align='center'>
+  <img src='https://img.shields.io/badge/-Flask-lightgray?style=for-the-badge&logo=flask&logoColor=green'/>
+  <img src='https://img.shields.io/badge/-C%20Sharp-informational?style=for-the-badge&logo=csharp&logoColor=white'/>
+   <img src='https://img.shields.io/badge/-Amazon AWS-important?style=for-the-badge&logo=amazonaws&logoColor=white'/>
+   <img src='https://img.shields.io/badge/-ASP%20Net-critical?style=for-the-badge&logo=dotnet&logoColor=white'/>
+</p>
