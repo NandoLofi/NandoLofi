@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there, I'm Fernando or you can call me Nando for short!</h1>
 <p align='center'>
-<img src="https://i.imgur.com/RiVPhNQ.jpg" alt="banner" width=60%> 
+<img src="https://64.media.tumblr.com/93009962593c8a108c9269b8fd339f6f/tumblr_ocah6baKRC1sktgg3o2_r1_540.gif" alt="banner" width=60%> 
 </p>
 
 <p align='center'>
@@ -31,3 +31,6 @@
    <img src='https://img.shields.io/badge/-Amazon AWS-important?style=for-the-badge&logo=amazonaws&logoColor=white'/>
    <img src='https://img.shields.io/badge/-ASP%20Net-critical?style=for-the-badge&logo=dotnet&logoColor=white'/>
 </p>
+<hr>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NandoLofi&theme=dark&background=000000)](https://git.io/streak-stats)
