@@ -1,4 +1,6 @@
 <h1 align='center'> Hi there, I'm Fernando or you can call me Nando for short!</h1>
+<h3 align='center'> About Me! </h3>
+<p align='center'> :notes: I am a lifelong lover of music of all sorts :sun_with_face: I am fueled by beautiful days  :orange_book: I LOVE to learn new things :coffee: Lover of coffee</p>
 <p align='center'>
 <img src="https://64.media.tumblr.com/93009962593c8a108c9269b8fd339f6f/tumblr_ocah6baKRC1sktgg3o2_r1_540.gif" alt="banner" width=60%> 
 </p>
@@ -9,7 +11,6 @@
   <a href="mailto:n.brighter00@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 
 <h2 align='center'> Full-Stack Software Engineer </h2>
 <p align='center'>
@@ -22,17 +23,16 @@
   <img src='https://img.shields.io/badge/-Django-informational?style=for-the-badge&logo=django&logoColor=9cf'/>
 </p>
 
-<hr>
 
-<h3 align='center'>Currently Learning</h3>
+<h2 align='center'>Currently Learning</h2>
 <p align='center'>
   <img src='https://img.shields.io/badge/-Flask-lightgray?style=for-the-badge&logo=flask&logoColor=green'/>
   <img src='https://img.shields.io/badge/-C%20Sharp-informational?style=for-the-badge&logo=csharp&logoColor=white'/>
    <img src='https://img.shields.io/badge/-Amazon AWS-important?style=for-the-badge&logo=amazonaws&logoColor=white'/>
    <img src='https://img.shields.io/badge/-ASP%20Net-critical?style=for-the-badge&logo=dotnet&logoColor=white'/>
 </p>
-<hr>
 
+<h2 align='center'> Stats! </h2>
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoLofi&theme=dark&background=000000"/> <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoLofi&layout=compact&theme=vision-friendly-dark"/>
