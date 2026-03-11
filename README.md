@@ -7,11 +7,7 @@
 <section id="learning">
   <h2>Currently Learning</h2>
   <p>
-    I am actively developing my skills in <strong>Python</strong> and <strong>SQL</strong> to deepen my understanding of data analysis, automation, and revenue operations. 
-    Through hands-on projects, I am practicing writing complex SQL queries including joins, aggregations, and window functions, as well as building Python scripts for data manipulation and problem-solving.
-  </p>
-  <p>
-    My focus is on applying these technical skills to real-world business scenarios such as billing analytics, operational reporting, corss-department functionality, and performance tracking. 
-    As I continue learning, I am building projects that demonstrate data-driven thinking and practical application of both languages.
+    I am actively developing my skills in <strong>Python</strong> and <strong>SQL</strong> to deepen my understanding of data analysis, automation, and revenue operations with the hopes to also dabble in other sectors.
+    Through some fun projects I am practicing with, I hope to learn multiple aspects of Python such as their Pandas library, and other complex SQL mastery. 
   </p>
 </section>
